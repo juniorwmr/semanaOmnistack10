@@ -1,5 +1,5 @@
 # <strong>semanaOmnistack10</strong>
-<i>Aplicação Full-Stack desenvolvida na Semana Omnistack10.</i>
+<i>Aplicação full-stack desenvolvida na Semana Omnistack10.</i>
 
 ## Contém: 
 #### * API REST (Node.Js)
